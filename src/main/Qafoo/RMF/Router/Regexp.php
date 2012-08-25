@@ -62,7 +62,7 @@ class Regexp extends Router
     /**
      * Add a regexp based route
      *
-     * The regular expression is amtched against the request path. If the
+     * The regular expression is matched against the request path. If the
      * regular expression matches the callback will be returned.
      *
      * @param string $method
